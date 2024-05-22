@@ -27,6 +27,7 @@ I'm always open to collaboration and new opportunities. Whether it's a project, 
 ### Thank You for Visiting!
 Thank you for taking the time to explore my GitHub profile. Don't hesitate to reach out if you have any questions or suggestions. Happy coding! 🚀
 
-![React Logo](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
-![Node.js Logo](https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif)
-![MongoDB Logo](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
+<img src="https://example.com/react-logo.jpg" alt="React Logo" width="100" height="100">
+<img src="https://example.com/nodejs-logo.jpg" alt="Node.js Logo" width="100" height="100">
+<img src="https://example.com/mongodb-logo.jpg" alt="MongoDB Logo" width="100" height="100">
+
