@@ -27,7 +27,8 @@ I'm always open to collaboration and new opportunities. Whether it's a project, 
 ### Thank You for Visiting!
 Thank you for taking the time to explore my GitHub profile. Don't hesitate to reach out if you have any questions or suggestions. Happy coding! 🚀
 
-<img src="https://example.com/react-logo.jpg" alt="React Logo" width="100" height="100">
-<img src="https://example.com/nodejs-logo.jpg" alt="Node.js Logo" width="100" height="100">
-<img src="https://example.com/mongodb-logo.jpg" alt="MongoDB Logo" width="100" height="100">
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+</a> 
