@@ -1,3 +1,4 @@
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100%">
 # Hi there! 👋
 
 ## Muhammad Wasi Khatri
