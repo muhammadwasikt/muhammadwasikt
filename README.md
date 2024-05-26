@@ -11,8 +11,8 @@ I'm learning MERN stack and website development, always eager to learn and imple
 
 ### Projects
 Here are some of the projects I've worked on:
-- [Project 1]([link](https://github.com/M-wasi123/Morent-rental)): This is a Morant rental car project built for practice.
-- [Project 2]([link](https://github.com/M-wasi123/javascript-practice)): I made this project for my javascript practice.
+- <a href="https://github.com/M-wasi123/Morent-rental">Project 1</a>: This is a Morant rental car project built for practice.
+- <a href="https://github.com/M-wasi123/javascript-practice">Project 2</a>: I made this project for my javascript practice.
 
 <h3 align="left", font-weight:"bold">Connect with me:</h3>
 <p align="left">
