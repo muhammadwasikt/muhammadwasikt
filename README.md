@@ -7,7 +7,7 @@
 I'm learning MERN stack and website development, always eager to learn and implement new technologies. With a keen interest in crafting efficient and user-friendly web solutions, I strive to continuously enhance my skills and stay updated with the latest trends in the ever-evolving tech world.
 
 ### Skills
-- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Frontend:** HTML, CSS, JavaScript, Firebase, TypeScript
 
 ### Projects
 Here are some of the projects I've worked on:
