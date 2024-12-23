@@ -6,12 +6,13 @@
 I'm learning MERN stack and website development, always eager to learn and implement new technologies. With a keen interest in crafting efficient and user-friendly web solutions, I strive to continuously enhance my skills and stay updated with the latest trends in the ever-evolving tech world.
 
 ### Skills
-- **Frontend:** HTML, CSS, JavaScript, Firebase, TypeScript, React js, Tailwind CSS, Next js
+- **Frontend:** HTML, CSS, JavaScript, Firebase, TypeScript, React js, Tailwind CSS, Next js, Daisyui, MUI, Bootstrap
+- **Backend:** Node js, Express js, MongoDB, Dotenv, Bcryptjs, Jsonwebtoken
 
 ### Projects
 Here are some of the projects I've worked on:
 - <a href="https://github.com/muhammadwasikt/Morent-rental">Project 1</a>: This is a Morant rental car project built for practice.
-- <a href="https://github.com/muhammadwasikt/javascript-practice">Project 2</a>: I made this project for my javascript practice.
+- <a href="https://github.com/muhammadwasikt/shopping-cart">Project 2</a>: This is a Shopping Cart web built for redux toolkit  practice.
 - <a href="https://github.com/muhammadwasikt/mini-hackthon-react">Project 3</a>: This is a Chawk bazar web built for react js practice.
 
 <h3 align="left", font-weight:"bold">Connect with me:</h3>
