@@ -13,7 +13,7 @@ I'm learning MERN stack and website development, always eager to learn and imple
 Here are some of the projects I've worked on:
 - <a href="https://github.com/muhammadwasikt/Morent-rental">Project 1</a>: This is a Morant rental car project built for practice.
 - <a href="https://github.com/muhammadwasikt/shopping-cart">Project 2</a>: This is a Shopping Cart web built for redux toolkit  practice.
-- <a href="https://github.com/muhammadwasikt/mini-hackthon-react">Project 3</a>: This is a Chawk bazar web built for react js practice.
+- <a href="https://github.com/muhammadwasikt/mern-stack-blog-app">Project 3</a>: This is a Blog web built for react js , Express js , Mongodb practice.
 
 <h3 align="left", font-weight:"bold">Connect with me:</h3>
 <p align="left">
