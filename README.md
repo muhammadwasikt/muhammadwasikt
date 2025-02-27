@@ -22,8 +22,8 @@ Here are some of the projects I've worked on:
 <a href="https://www.linkedin.com/in/muhammad-wasi-imran-khatri" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Wasi Imran Khatri" height="30" width="40" />
 </a>
-  <a href="https://www.facebook.com/people/M-Wasi-Imran-khatri/pfbid0kNNb22faBXSzXSuUij5sgMsJUuq2btKeXQ5KaPGJnNA2pbKyKrpvJ2ZK2SBp24HUl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/umarhasnain078" height="30" width="40" /></a>
-  <a href="https://medium.com/@wasikhatri11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="wasikhatri11" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/people/M-Wasi-Imran-khatri/pfbid0kNNb22faBXSzXSuUij5sgMsJUuq2btKeXQ5KaPGJnNA2pbKyKrpvJ2ZK2SBp24HUl/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/umarhasnain078" height="30" width="40" /></a>
+  <a href="https://medium.com/@wasikhatri11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="wasikhatri11" height="30" width="40" /></a>
 </p>
 
 ### Let's Collaborate!
