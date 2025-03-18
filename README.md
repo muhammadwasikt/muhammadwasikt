@@ -1,19 +1,25 @@
-# Hi there! 👋
+# Hey there! I'm Wasi 👋  
 
-## Muhammad Wasi Khatri
+🚀 **MERN Stack Developer**  
 
-### About Me
-I'm learning MERN stack and website development, always eager to learn and implement new technologies. With a keen interest in crafting efficient and user-friendly web solutions, I strive to continuously enhance my skills and stay updated with the latest trends in the ever-evolving tech world.
+💡 Turning ideas into **scalable** and **high-performance** web apps.  
+🔥 **React, Next.js, Node.js, Express, Firebase, Redux Toolkit** – My daily tools.  
+🎨 UI/UX fanatic – **Tailwind CSS + DaisyUI + ShadCN UI** for sleek, modern designs.  
+🚧 Currently building a **Guest Posting Website** & a **Blog Website**.  
+⚡ Always up for **challenging projects** & new opportunities!  
 
-### Skills
-- **Frontend:** HTML, CSS, JavaScript, Firebase, TypeScript, React js, Tailwind CSS, Next js, Daisyui, MUI, Bootstrap
-- **Backend:** Node js, Express js, MongoDB, Dotenv, Bcryptjs, Jsonwebtoken
+### 📌 My Recent Projects  
+🔹 **MockStorage** – [Live Site](https://mockstorage.vercel.app/) | [GitHub](https://github.com/muhammadwasikt/mock-storage)  
+🔹 **Next.js Portfolio (ShadCN UI)** – [GitHub](https://github.com/muhammadwasikt/next-js-portfolio)  
+🔹 **BlogBusters (MERN Blog App)** – [GitHub](https://github.com/muhammadwasikt/mern-stack-blog-app)  
 
-### Projects
-Here are some of the projects I've worked on:
-- <a href="https://github.com/muhammadwasikt/Morent-rental">Project 1</a>: This is a Morant rental car project built for practice.
-- <a href="https://github.com/muhammadwasikt/shopping-cart">Project 2</a>: This is a Shopping Cart web built for redux toolkit  practice.
-- <a href="https://github.com/muhammadwasikt/mern-stack-blog-app">Project 3</a>: This is a Blog web built for react js , Express js , Mongodb practice.
+### 🌍 Let's Connect!  
+🔗 **GitHub:** [@muhammadwasikt](https://github.com/muhammadwasikt)  
+💼 **Portfolio:** (Coming Soon...)  
+📩 Open to collaborations & new opportunities!  
+
+🚀 Keep coding, keep innovating!  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadwasikt&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadwasikt" /> </p>
 
