@@ -15,22 +15,16 @@
 
 ### 🌍 Let's Connect!  
 🔗 **GitHub:** [@muhammadwasikt](https://github.com/muhammadwasikt)  
-💼 **Portfolio:** (Coming Soon...)  
+💼 **Portfolio:** [@Muhammad Wasi](https://muhammadwasiportfolio.vercel.app)
+
+🔗 **Social Media:** [Linkedin](https://www.linkedin.com/in/muhammad-wasi-imran-khatri) [Facebook](https://www.facebook.com/people/M-Wasi-Imran-khatri/pfbid0kNNb22faBXSzXSuUij5sgMsJUuq2btKeXQ5KaPGJnNA2pbKyKrpvJ2ZK2SBp24HUl/) [Medium](https://medium.com/@wasikhatri11)
+
 📩 Open to collaborations & new opportunities!  
 
 🚀 Keep coding, keep innovating!  
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadwasikt&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadwasikt" /> </p>
-
-<h3 align="left", font-weight:"bold">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammad-wasi-imran-khatri" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Wasi Imran Khatri" height="30" width="40" />
-</a>
-  <a href="https://www.facebook.com/people/M-Wasi-Imran-khatri/pfbid0kNNb22faBXSzXSuUij5sgMsJUuq2btKeXQ5KaPGJnNA2pbKyKrpvJ2ZK2SBp24HUl/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/umarhasnain078" height="30" width="40" /></a>
-  <a href="https://medium.com/@wasikhatri11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="wasikhatri11" height="30" width="40" /></a>
-</p>
 
 ### Let's Collaborate!
 I'm always open to collaboration and new opportunities. Whether it's a project, idea, or just a friendly chat, feel free to reach out!
